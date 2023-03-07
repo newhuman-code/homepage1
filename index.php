@@ -11,7 +11,6 @@
   <p>自由律俳句は私が作ったものです。感想は私ので、その内容はアニメや漫画などです。</p>
   <button onclick="location.href='haiku.html'">自由律俳句</button>
   <button onclick="location.href='kansou.html'">感想(アニメ、漫画など)</button>
-  <p>あなたは<!--#exec cmd="/bin/sh -c 'c=`/bin/cat count`;expr $c + 1 | /usr/bin/tee count'"-->人目の訪問者です。</p>
   
   <?php
 
