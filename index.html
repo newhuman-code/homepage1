@@ -11,5 +11,21 @@
   <p>自由律俳句は私が作ったものです。感想は私ので、その内容はアニメや漫画などです。</p>
   <button onclick="location.href='haiku.html'">自由律俳句</button>
   <button onclick="location.href='kansou.html'">感想(アニメ、漫画など)</button>
+    <div id="counter">
+    アクセス数: <span id="count"></span>
+  </div>
+
+  <script>
+    // カウンターを初期化する
+    var count = parseInt(localStorage.getItem('count')) || 0;
+
+    // アクセス数をカウントする
+    count++;
+    localStorage.setItem('count', count);
+
+    // カウンターをHTML要素に表示する
+    document.getElementById('count').innerHTML = count;
+  </script>
+
 </body>
 </html>
