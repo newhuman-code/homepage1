@@ -74,8 +74,8 @@
 .slick-dots button {
     color: transparent;
     outline: none;
-    width:8px;/*ドットボタンのサイズ*/
-    height:8px;/*ドットボタンのサイズ*/
+    width:15px;/*ドットボタンのサイズ*/
+    height:15px;/*ドットボタンのサイズ*/
     display:block;
     border-radius:50%;
     background:#fff;/*ドットボタンの色*/
