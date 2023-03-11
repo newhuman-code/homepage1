@@ -11,14 +11,17 @@
 
 .slider-item01 {
     background:url(../img/img_01.jpg);
+    font-size: 50px
 }
 
 .slider-item02 {
     background:url(../img/img_02.jpg);
+    font-size: 50px
 }
 
 .slider-item03 {
     background:url(../img/img_03.jpg);
+    font-size: 50px
 }
 
 .slider-item {
