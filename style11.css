@@ -1,0 +1,54 @@
+/* style11.css */
+
+/* 全体のフォントサイズを指定 */
+body {
+    font-size: 16px;
+}
+
+/* ナビゲーションメニューのスタイルを指定 */
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    color: #fff;
+    display: block;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+/* メディアクエリを使用して、スマートフォン用のスタイルを指定 */
+@media (max-width: 767px) {
+    nav {
+        padding: 10px 0;
+    }
+
+    nav ul {
+        display: none;
+        text-align: center;
+    }
+
+    nav li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    nav a {
+        padding: 5px 10px;
+    }
+}
