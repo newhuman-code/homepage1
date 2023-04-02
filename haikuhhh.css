@@ -62,7 +62,7 @@
 .slick-next {/*次へ矢印の位置と形状*/
     right:2.5%;
     transform: rotate(45deg);
-    background-color: #1e90ff; 
+    background-color: #696969; 
 }
 
 /*ドットナビゲーションの設定*/
