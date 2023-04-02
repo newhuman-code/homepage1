@@ -57,14 +57,12 @@
     left:2.5%;
     transform: rotate(-135deg);
 　  background-color: #696969;
-   transform: translate(0px, 50px);
 }
 
 .slick-next {/*次へ矢印の位置と形状*/
     right:2.5%;
     transform: rotate(45deg);
     background-color: #696969; 
-    transform: translate(0px, 50px);
 }
 
 /*ドットナビゲーションの設定*/
