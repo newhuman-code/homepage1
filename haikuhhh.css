@@ -56,11 +56,13 @@
 .slick-prev {/*戻る矢印の位置と形状*/
     left:2.5%;
     transform: rotate(-135deg);
+　  background-color: #1e90ff; 
 }
 
 .slick-next {/*次へ矢印の位置と形状*/
     right:2.5%;
     transform: rotate(45deg);
+    background-color: #1e90ff; 
 }
 
 /*ドットナビゲーションの設定*/
