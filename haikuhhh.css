@@ -10,17 +10,17 @@
 /*　背景画像設定　*/
 
 .slider-item01 {
-    background:url(../img/img_01.jpg);
+    background:#ffffe0;
     font-size: 50px
 }
 
 .slider-item02 {
-    background:url(../img/img_02.jpg);
+    background:#ffffe0;
     font-size: 50px
 }
 
 .slider-item03 {
-    background:url(../img/img_03.jpg);
+    background:#ffffe0;
     font-size: 50px
 }
 
