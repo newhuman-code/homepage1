@@ -11,17 +11,26 @@
 
 .slider-item01 {
     background:#e6e6fa;
-    font-size: 50px
+    font-size: 50px  
+             position: relative; /* 要素の位置を相対的に指定するためのプロパティ */
+    left: 20px; /* 左から50px移動 */
+    top: 20px; /* 上から20px移動 */
 }
 
 .slider-item02 {
     background:#e6e6fa;
     font-size: 50px
+	     position: relative; /* 要素の位置を相対的に指定するためのプロパティ */
+    left: 20px; /* 左から50px移動 */
+    top: 20px; /* 上から20px移動 */
 }
 
 .slider-item03 {
     background:#e6e6fa;
     font-size: 50px
+	     position: relative; /* 要素の位置を相対的に指定するためのプロパティ */
+    left: 20px; /* 左から50px移動 */
+    top: 20px; /* 上から20px移動 */
 }
 
 .slider-item {
