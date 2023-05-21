@@ -11,9 +11,11 @@ h1{
 
 .naka{
   display: flex; 
+  border-style: solid;
 } 
 .blog{
-  width: 200px;
+  width: 600px;
+  height: 1000px;
   margin-top: 20px;
   padding-top: 20px;
   border-style: solid;
@@ -23,7 +25,8 @@ h1{
 }
 
 .migi{
-    
+    border-style: solid;
+    margin: 20px;
 }
 
 
