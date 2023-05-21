@@ -3,11 +3,11 @@ body{
 }
 
 h1{
-  font-size: 150%;
+  font-size: 300%;
   text-shadow: 1px 1px 1px #008b8b; 
 }
 .ue{
-  width: 60%
+  width: 100%
   margin-top: 20px;
   padding-top: 10px
   border-style: solid;
@@ -22,7 +22,7 @@ h1{
 } 
 .blog{
   font-size: 200%;
-  width: 600px;
+  width: px;
   height: 1000px;
   margin: 20px 50px 0px 50px;
   padding: 20px 60px 0px 60px;
