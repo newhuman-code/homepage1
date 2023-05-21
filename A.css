@@ -1,6 +1,18 @@
-.class{
+h1{
+  text-shadow: 1px 1px 1px #008b8b; 
+}
+.ue{
+  border-style: solid;
+  border-width: thin;
+  border-color: #008b8b;
+  text-align: center;  
+}
+
+.blog{
   border-style: solid;
   border-width: thin;
   border-color: #008b8b;
   text-align: center;
 }
+
+
