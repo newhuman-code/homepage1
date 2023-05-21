@@ -9,6 +9,9 @@ h1{
   text-align: center;  
 }
 
+.naka{
+  display: flex; 
+} 
 .blog{
   width: 200px;
   margin-top: 20px;
@@ -17,6 +20,10 @@ h1{
   border-width: thin;
   border-color: #008b8b;
   text-align: center;
+}
+
+.migi{
+    
 }
 
 
