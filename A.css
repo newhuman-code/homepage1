@@ -7,23 +7,20 @@ h1{
   font-size: 300%;
   text-shadow: 1px 1px 1px #008b8b; 
 }
-.ue{
-  width: 100%
-  margin-top: 20px;
-  padding-top: 10px
+.name{
   border-style: solid;
-  border-width: thin;
   border-color: #008b8b;
   text-align: center;  
 }
 
 .naka{
   display: flex; 
+  width: 70%;
   border-style: solid;
 } 
+
 .blog{
   font-size: 200%;
-  width: px;
   height: 1000px;
   margin: 20px 50px 0px 50px;
   padding: 20px 60px 0px 60px;
