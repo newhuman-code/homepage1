@@ -1,4 +1,9 @@
+body{
+  font-family: serif fantasy monospace;  
+}
+
 h1{
+  font-size: 150%;
   text-shadow: 1px 1px 1px #008b8b; 
 }
 .ue{
@@ -16,6 +21,7 @@ h1{
   border-style: solid;
 } 
 .blog{
+  font-size: 70%;
   width: 600px;
   height: 1000px;
   margin-top: 20px;
@@ -27,6 +33,7 @@ h1{
 }
 
 .migi{
+    font-size: 70%;
     border-style: solid;
     margin: 20px;
 }
