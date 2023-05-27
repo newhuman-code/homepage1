@@ -1,9 +1,15 @@
+
+html{
+  height:100%;
+}
+
 body{
+  height:100%;
   font-family: serif fantasy monospace;  
 }
 
 .box{
-  
+  height:100%;
 }
 
 h1{
