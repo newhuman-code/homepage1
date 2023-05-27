@@ -20,22 +20,3 @@ h1{
   border-style: solid;
 } 
 
-.blog{
-  font-size: 200%;
-  height: 1000px;
-  margin: 20px 50px 0px 50px;
-  padding: 20px 60px 0px 60px;
-  border-style: solid;
-  border-width: thin;
-  border-color: #008b8b;
-  text-align: center;
-}
-
-.migi{
-    font-size: 200%;
-    border-style: solid;
-    margin: 20px;
-    padding: 20px 0px 0px 20px;
-}
-
-
