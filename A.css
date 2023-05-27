@@ -17,5 +17,6 @@ h1{
   display: flex; 
   width: 70%;
   border-style: solid;
+  margin: 0 auto;
 } 
 
