@@ -5,8 +5,8 @@ body{
 }
 
 .box{
-  width: 60%;
   border-style: solid;
+  width: 60%;
   margin: 0 auto;
 } 
 
