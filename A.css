@@ -14,7 +14,7 @@ body{
 .name{
   border-style: solid;
   border-radius: 20px;
-  background: linear-gradient(90deg, #ffebcd, #d3d3d3);
+  background: linear-gradient(to top, #ffebcd 50%, #d3d3d3 50%);
   width: 90%;
   margin: 20px auto;
 }
