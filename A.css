@@ -49,3 +49,51 @@ h1{
   padding: 0 auto; 
 }
 
+@media screen and (max-width:500px) {
+ 
+	/*　この位置に記述する　*/
+  body{
+    font-family: serif fantasy monospace;
+  }
+  
+  h1{
+  padding: 10px; 
+  }
+
+  #calender{
+    text-align: center; 
+  }
+
+  .box{
+  border-style: solid;
+  background: #fff;
+  width: 100%;
+  margin: 0 0;
+  } 
+  
+  .name{
+  border-style: solid;
+  border-radius: 20px;
+  background: linear-gradient(to bottom, #f5fffa 0%, #d3d3d3 100%);
+  width: 90%;
+  margin: 20px auto;
+  }
+  
+  .contents{
+  border-style: solid;
+  width:100%;
+  padding: 10px;
+  }
+
+  .migigawa{
+  border-style: solid;
+  width:100%;
+  }
+
+  .date{
+  border-style: solid;
+  padding: 0 auto; 
+  }
+ 
+}
+
