@@ -19,6 +19,7 @@ body{
   margin: 20px auto;
 }
 
+/*nakamiクラスは、contentsクラスとmigigawaクラスを囲んでいる*/
 .nakami{
   display: flex;
 }
