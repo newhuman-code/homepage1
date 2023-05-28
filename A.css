@@ -78,7 +78,10 @@ h1{
   width: 90%;
   margin: 20px auto;
   }
-  
+	
+  .nakami{
+  display: none;
+  }
   .contents{
   border-style: solid;
   width:100%;
