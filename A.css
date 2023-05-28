@@ -89,11 +89,13 @@ h1{
   }
 
   .migigawa{
+  display:none;
   border-style: solid;
   width:100%;
   }
 
   .date{
+  display:none;
   border-style: solid;
   padding: 0 auto; 
   }
