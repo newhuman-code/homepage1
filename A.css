@@ -38,9 +38,13 @@ h1{
   padding: 5px;
 }
 
+/*migiagwaクラスは、dateクラスを囲んでいる*/
 .migigawa{
   border-style: solid;
   width:30%;
-  margin: 0 auto;
+}
+
+.date{
+  margin: 0 auto; 
 }
 
