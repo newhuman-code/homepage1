@@ -13,6 +13,7 @@ body{
 
 .name{
   border-style: solid;
+  background: #ffc0cb;
   width: 90%;
   margin: 0 auto;
 }
