@@ -1,14 +1,14 @@
 
 body{
-  font-family: serif fantasy monospace;  /*フォント指定*/
-  background-image:url("背景.jpg");　/*背景画像指定*/
+  font-family: serif fantasy monospace;
+  background-image:url("背景.jpg");　
 }
 
 .box{
-  border-style: solid;　/*線を引く*/
-  background: #fff;　/*枠線内の色を指定*/
-  width: 60%;　/*画面に対する横幅の割合*/
-  margin: 0 auto;　/*上下余白0 */
+  border-style: solid;
+  background: #fff;
+  width: 60%;
+  margin: 0 auto;
 } 
 
 .name{
