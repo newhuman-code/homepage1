@@ -35,7 +35,7 @@ h1{
 .contents{
   border-style: solid;
   width:70%;
-  padding: 5px;
+  padding: 10px;
 }
 
 /*migiagwaクラスは、dateクラスを囲んでいる*/
@@ -46,6 +46,6 @@ h1{
 
 .date{
   border-style: solid;
-  margin: 0 auto; 
+  padding: 0 auto; 
 }
 
