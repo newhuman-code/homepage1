@@ -8,6 +8,10 @@ h1{
   padding: 10px; 
 }
 
+#calender{
+  text-align: center; 
+}
+
 .box{
   border-style: solid;
   background: #fff;
