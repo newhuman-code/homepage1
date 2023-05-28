@@ -1,7 +1,7 @@
 
 body{
   font-family: serif fantasy monospace;  /*フォント指定*/
-  background-image:url("renga_pattern.png");　/*背景画像指定*/
+  background-image:url("背景.jpg");　/*背景画像指定*/
 }
 
 .box{
