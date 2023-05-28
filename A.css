@@ -6,7 +6,7 @@ body{
 
 .box{
   border-style: solid;
-  
+  background: #fff;
   width: 60%;
   margin: 0 auto;
 } 
