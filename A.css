@@ -4,6 +4,10 @@ body{
   background-image:url("背景.jpg");　
 }
 
+h1{
+  padding: 10px; 
+}
+
 .box{
   border-style: solid;
   background: #fff;
